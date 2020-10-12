@@ -26,13 +26,13 @@ __Imperial College London__, Materials Science and Engineering (MEng)
 `Summer 2020`
 __Research software engineer__, Imperial College London
 
-Developed [UnlockGNN](https://github.com/a-ws-m/unlockGNN): a Python package for adding uncertainty quantification to graph neural network models of materials.
-Built on TensorFlow, Keras and TensorFlow Probability.
+- Developed [UnlockGNN](https://github.com/a-ws-m/unlockGNN): a Python package for adding uncertainty quantification to graph neural network models of materials.
+- Built on Keras, TensorFlow, and TensorFlow Probability.
 
 `Summer 2019`
 __Research software engineer__, Imperial College London
 
-Developed `structure_prediction` module of [SMACT](https://github.com/WMD-group/SMACT): a data-driven model for crystal structure prediction.
+Developed structure_prediction module of [SMACT](https://github.com/WMD-group/SMACT): a data-driven model for crystal structure prediction.
 
 `Summer 2018`
 __Contractor software developer__, MirrorWeb Ltd., Manchester
