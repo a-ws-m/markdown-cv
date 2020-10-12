@@ -9,7 +9,7 @@ Materials Scientist and Software Engineer
 
 <div id="webaddress">
 <a href="mailto:amoriarty14@gmail.com">amoriarty14@gmail.com</a>
-| <a href="https://github.com/a-ws-m">Github</a>
+| <a href="https://github.com/a-ws-m">Github (a-ws-m)</a>
 </div>
 
 ## Interests
