@@ -12,11 +12,9 @@ Materials Scientist and Software Engineer
 | <a href="https://github.com/a-ws-m">Github</a>
 </div>
 
-## About
+## Interests
 
-Third-year Materials Science and Engineering student with experience in research and commercial software development.
-Excited by data-driven computing's ability to provide new insights into the scientific field and to communicate ideas in novel, powerful ways.
-Interested in developing software to better understand materials, improve the materials design process, encourage sustainability and generate more widespread excitement about the field.
+Developing machine learning algorithms and tools for intelligent materials design.
 
 ## Education
 
@@ -28,10 +26,8 @@ __Imperial College London__, Materials Science and Engineering (MEng)
 `Summer 2019`
 __Research software engineer__, Imperial College London
 
-- Implemented an algorithm in Python 3 to utilise a pre-trained data-driven model for inorganic crystal structure prediction based on constituent chemical species.
-- Designed to integrate smoothly with pre-existing codebase and to be well-documented for convenient augmentation in future projects.
-- Tested the module using Python's unit testing framework and coverage.py.
-- See *structure_prediction* module of [SMACT](https://github.com/WMD-group/SMACT) on GitHub.
+- Developed `structure_prediction` module of [SMACT](https://github.com/WMD-group/SMACT).
+- Implemented data-driven model for crystal structure prediction.
 
 `Summer 2018`
 __Contractor software developer__, MirrorWeb Ltd., Manchester
