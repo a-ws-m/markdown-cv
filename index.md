@@ -33,8 +33,8 @@ Led design team of three to design a component for a machine to produce composit
 
 Served as company Chief of Automation, responsible for:
 
-- Coordinating all other subgroups' (25 people total) software for electrical components
-- Designing centralised control system and software for production line control and automation
+- Coordinating all other subgroups' (25 people total) software for electrical components;
+- Designing centralised control system and software for production line control and automation.
 
 Developed serial communication hub using Arduino and server software using Flask for remote control.
 
@@ -82,10 +82,10 @@ Joined in 2017, elected Treasurer in 2018 and President in 2019.
 
 Responsible for:
 
-- Managing financial transactions,
-- Organising club participation in national competitions,
-- Coordinating committee members and delegating tasks,
-- Developing [IC Jitsu site](https://union.ic.ac.uk/acc/jujitsu/)
+- Managing financial transactions;
+- Organising club participation in national competitions;
+- Coordinating committee members and delegating tasks;
+- Developing [IC Jitsu site](https://union.ic.ac.uk/acc/jujitsu/).
 
 ### Footer
 
