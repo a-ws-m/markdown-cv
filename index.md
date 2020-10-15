@@ -21,7 +21,7 @@ Developing machine learning algorithms and tools for intelligent materials desig
 `2017-2021 (Current)`
 __MEng, Imperial College London__, Materials Science and Engineering
 
-On target for a 1<sup>st</sup> Class grade.
+On target for a 1st Class grade.
 
 Current modules include Modelling Materials with Density Functional Theory, Electroceramics, Design for Additive Manufacturing and Nanomaterials.
 
