@@ -22,6 +22,7 @@ Developing machine learning algorithms and tools for intelligent materials desig
 __MEng, Imperial College London__, Materials Science and Engineering
 
 On target for a 1<sup>st</sup> Class grade.
+
 Current modules include Modelling Materials with Density Functional Theory, Electroceramics, Design for Additive Manufacturing and Nanomaterials.
 
 ### Key Projects
@@ -29,15 +30,19 @@ Current modules include Modelling Materials with Density Functional Theory, Elec
 __Design study &mdash; Production line for carbon fibre-reinforced phenolic resin wedges__
 
 Led design team of three to design a component for a machine to produce composite wedges by fibre-winding.
+
 Served as company Chief of Automation, responsible for:
 
 - Coordinating all other subgroups' (25 people total) software for electrical components
 - Designing centralised control system and software for production line control and automation
 
-Developed serial communication hub using Arduino and server software using Flask for remote control
-Set project timeframes and communicated progress and design thesis with subgroups and company administration
-Managed project timeline using Gantt charts
-Edited and contributed to project concept and final design reports
+Developed serial communication hub using Arduino and server software using Flask for remote control.
+
+Set project timeframes and communicated progress and design thesis with subgroups and company administration.
+
+Managed project timeline using Gantt charts.
+
+Edited and contributed to project concept and final design reports.
 
 ## Experience
 
@@ -73,7 +78,8 @@ __Contractor software developer__, MirrorWeb Ltd., Manchester
 `2018-2020`
 __Imperial Jiu-Jitsu__, Treasurer & President
 
-Joined in 2017, elected Treasurer in 2018 and President in 2019
+Joined in 2017, elected Treasurer in 2018 and President in 2019.
+
 Responsible for:
 
 - Managing financial transactions,
