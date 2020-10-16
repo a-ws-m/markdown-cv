@@ -87,6 +87,11 @@ p code {
 	left: -14%;
 }
 
+p.cont-code code {
+	position: relative;
+	font-size: inherit;
+	color: inherit;
+}
 
 ul { 
 	position: relative;

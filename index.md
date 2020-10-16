@@ -55,7 +55,8 @@ Developed [UnlockGNN](https://github.com/a-ws-m/unlockGNN): a Python package for
 `Summer 2019`
 __Research software engineer__, Imperial College London
 
-Developed structure_prediction module of [SMACT](https://github.com/WMD-group/SMACT): a data-driven model for crystal structure prediction.
+Developed `structure_prediction` module of [SMACT](https://github.com/WMD-group/SMACT): a data-driven model for crystal structure prediction.
+{: .cont-code}
 
 - Liased with project maintainers to create development strategy, outline project scope and adapt implementation via daily Slack discussions.
 - Implemented SQLite database for storing reference crystal structures, indexed by a unique composition-based key.
