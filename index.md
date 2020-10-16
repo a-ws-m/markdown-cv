@@ -23,6 +23,8 @@ __MEng, Imperial College London__, Materials Science and Engineering
 
 On target for a 1st Class grade.
 
+Currently working on Master's thesis: *Data-driven semiconductor screening for clean energy materials*.
+
 Current modules include Modelling Materials with Density Functional Theory, Electroceramics, Design for Additive Manufacturing and Nanomaterials.
 
 ### Key Projects
@@ -51,8 +53,8 @@ __Research software engineer__, Imperial College London
 
 Developed [UnlockGNN](https://github.com/a-ws-m/unlockGNN): a Python package for adding uncertainty quantification to graph neural network models of materials.
 
-- Built on Keras, TensorFlow, and TensorFlow Probability.
-- Constructed machine learning model for solid state energy prediciton.
+- Built on Keras, TensorFlow and TensorFlow Probability.
+- Constructed machine learning model for solid state energy prediction.
 - Developed Gaussian process models for determining uncertainty.
 
 `Summer 2019`
@@ -61,6 +63,8 @@ __Research software engineer__, Imperial College London
 Developed structure_prediction module of [SMACT](https://github.com/WMD-group/SMACT): a data-driven model for crystal structure prediction.
 
 - Liased with project maintainers to create development strategy, outline project scope and adapt implementation via daily Slack discussions.
+- Implemented SQLite database for storing reference crystal structures, indexed by a unique composition-based key.
+- Queried remote database ([The Materials Project](https://materialsproject.org/)) using MongoDB syntax and a REST API.
 
 `Summer 2018`
 __Contractor software developer__, MirrorWeb Ltd., Manchester
@@ -87,6 +91,6 @@ Responsible for:
 - Coordinating committee members and delegating tasks;
 - Developing [IC Jitsu site](https://union.ic.ac.uk/acc/jujitsu/).
 
-### Footer
+<!-- ### Footer
 
-Last updated: October 2020
+Last updated: October 2020 -->
