@@ -138,7 +138,7 @@ h1+p {
 h2 {
 	font-size: 1.1em;
 	color: #a00;
-	margin-top: 3em;
+	margin-top: 2em;
 	position: relative;
 	top: 1.4em;
 	text-align: right;
@@ -168,7 +168,7 @@ a:hover {
 	position: relative;
 	left: 33%;
 	color: #aaa;
-	font-family: Menlo,monospace,sans-serif;
+	font-family: 'Fira Mono',Menlo,monospace,sans-serif;
 	font-size: 80%;
 }
 
@@ -178,7 +178,7 @@ a:hover {
 
 em {
 	/* font-weight: bold; */
-	font-weight: 500;
+	font-style: italic;
 }
 
 strong {
