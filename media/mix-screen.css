@@ -91,6 +91,7 @@ p.cont-code code {
 	position: relative;
 	font-size: inherit;
 	color: inherit;
+	left: auto;
 }
 
 ul { 
