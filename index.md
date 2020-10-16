@@ -23,7 +23,7 @@ __MEng, Imperial College London__, Materials Science and Engineering
 
 On target for a 1st Class grade.
 
-Currently working on Master's thesis: *Data-driven semiconductor screening for clean energy materials*.
+Currently working on Master's thesis: `Data-driven semiconductor screening for clean energy materials`.
 
 Current modules include Modelling Materials with Density Functional Theory, Electroceramics, Design for Additive Manufacturing and Nanomaterials.
 
