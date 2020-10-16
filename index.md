@@ -29,7 +29,7 @@ Current modules include Modelling Materials with Density Functional Theory, Elec
 
 ### Key Projects
 
-__Design study &mdash; Production line for carbon fibre-reinforced phenolic resin wedges__
+__Design study__ &mdash; Production line for carbon fibre-reinforced phenolic resin wedges
 
 Led design team of three to design a component for a machine to produce composite wedges by fibre-winding.
 
