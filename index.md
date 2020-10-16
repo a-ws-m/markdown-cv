@@ -21,10 +21,8 @@ Developing machine learning algorithms and tools for intelligent materials desig
 `2017-2021 (Current)`
 __MEng, Imperial College London__, Materials Science and Engineering
 
-On target for a 1st Class grade.
-
-Currently working on Master's thesis: _Data-driven semiconductor screening for clean energy materials_.
-
+On target for a 1st Class grade.\\
+Currently working on Master's thesis: _Data-driven semiconductor screening for clean energy materials_.\\
 Current modules include Modelling Materials with Density Functional Theory, Electroceramics, Design for Additive Manufacturing and Nanomaterials.
 
 ### Key Projects
@@ -38,13 +36,10 @@ Served as company Chief of Automation, responsible for:
 - Coordinating all other subgroups' (25 people total) software for electrical components;
 - Designing centralised control system and software for production line control and automation.
 
-Developed serial communication hub using Arduino and server software using Flask for remote control.
-
-Set project timeframes and communicated progress and design thesis with subgroups and company administration.
-
-Managed project timeline using Gantt charts.
-
-Edited and contributed to project concept and final design reports.
+- Developed serial communication hub using Arduino and server software using Flask for remote control.
+- Set project timeframes and communicated progress and design thesis with subgroups and company administration.
+- Managed project timeline using Gantt charts.
+- Edited and contributed to project concept and final design reports.
 
 ## Experience
 
