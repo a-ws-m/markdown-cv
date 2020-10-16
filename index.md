@@ -21,9 +21,9 @@ Developing machine learning algorithms and tools for intelligent materials desig
 `2017-2021 (Current)`
 __MEng, Imperial College London__, Materials Science and Engineering
 
-On target for a 1st Class grade.\\
-Currently working on Master's thesis: _Data-driven semiconductor screening for clean energy materials_.\\
-Current modules include Modelling Materials with Density Functional Theory, Electroceramics, Design for Additive Manufacturing and Nanomaterials.
+- On target for a 1st Class grade.
+- Currently working on Master's thesis: _Data-driven semiconductor screening for clean energy materials_.
+- Current modules include Modelling Materials with Density Functional Theory, Electroceramics, Design for Additive Manufacturing and Nanomaterials.
 
 ### Key Projects
 
