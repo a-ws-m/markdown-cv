@@ -89,11 +89,9 @@ p code {
 }
 
 p.cont-code code {
-	position: relative;
+	position: static;
 	font-size: inherit;
 	color: inherit;
-	left: 14%;
-	right: auto;
 }
 
 ul { 
