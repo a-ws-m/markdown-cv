@@ -65,7 +65,7 @@ Developed `structure_prediction` module of [SMACT](https://github.com/WMD-group/
 `Summer 2018`
 __Contractor software developer__, MirrorWeb Ltd., Manchester
 
-Worked on web scraping and archiving frameworks as well as company software interfaces.
+Developed web scraping and archiving frameworks as well as company software interfaces.
 
 - Worked on Flask-based (Python 3) back end for internal and customer portals.
 - Interfaced with AWS S3 instances for storage management, both programatically (Bokeh) and through the online console.
