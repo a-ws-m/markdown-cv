@@ -92,7 +92,8 @@ p.cont-code code {
 	position: relative;
 	font-size: inherit;
 	color: inherit;
-	left: auto;
+	left: 14%;
+	right: auto;
 }
 
 ul { 
@@ -108,13 +109,6 @@ li:before {
 	content: "•";
 	position: relative;
 	left: -0.25em;
-}
-
-li {
-	/*second line indent*/
-	padding-left: 1.25em;
-	text-indent: -1.25em;
-	/*color: #777;*/
 }
 
 li ul {
