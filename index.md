@@ -58,7 +58,7 @@ __Research software engineer__, Imperial College London
 Developed `structure_prediction` module of [SMACT](https://github.com/WMD-group/SMACT): a data-driven model for crystal structure prediction.
 {: .cont-code}
 
-- Liased with project maintainers to create development strategy, outline project scope and adapt implementation via daily Slack discussions.
+- Liaised with project maintainers to create development strategy, outline project scope and adapt implementation via daily Slack discussions.
 - Implemented SQLite database for storing reference crystal structures, indexed by a unique composition-based key.
 - Queried remote database ([The Materials Project](https://materialsproject.org/)) using MongoDB syntax and a REST API.
 
