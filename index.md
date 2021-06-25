@@ -14,16 +14,20 @@ Materials Scientist and Software Engineer
 
 ## Interests
 
-Developing machine learning algorithms and tools for intelligent materials design.
+Developing machine learning algorithms and tools for intelligent chemical design.
 
 ## Education
 
 `2017-2021 (Current)`
 __MEng, Imperial College London__, Materials Science and Engineering
 
-- On target for a 1st Class grade.
-- Currently working on Master's thesis: _Interpretable machine learning for materials_.
-- Current modules include Modelling Materials with Density Functional Theory, Electroceramics, Design for Additive Manufacturing and Nanomaterials.
+- Provisional 1st Class.
+- Completed Master's thesis, _Interpretable machine learning for materials_, on
+  modifying a graph neural network for materials property prediction to add
+  uncertainty quantification and interpret results using latent space
+  visualisation.
+- Final year modules included Modelling Materials with Density Functional
+  Theory, Electroceramics, Design for Additive Manufacturing and Nanomaterials.
 
 ### Key Projects
 
