@@ -22,14 +22,25 @@ Developing machine learning algorithms and tools for intelligent chemical design
 __MEng, Imperial College London__, Materials Science and Engineering
 
 - Provisional 1st Class.
-- Completed Master's thesis, _Interpretable machine learning for materials_, on
-  modifying a graph neural network for materials property prediction to add
-  uncertainty quantification and interpret results using latent space
-  visualisation.
 - Final year modules included Modelling Materials with Density Functional
   Theory, Electroceramics, Design for Additive Manufacturing and Nanomaterials.
 
 ### Key Projects
+
+__Master's thesis__ &mdash; Interpretable Machine Learning Models for Materials
+
+Investigated added uncertainty quantification to graph neural networks (GNNs)
+for materials property prediction using UnlockGNN (see Experience).
+
+- Evaluated model performance on benchmark datasets using 5-fold
+  cross-validation.
+- Investigated uncertainty quantifier performance graphically and using metrics.
+- Interpreted model results and justified reliability using latent space
+  visualisation.
+- Compared performance of using different kernels with a variational Gaussian
+  process.
+- Interrogated models' perception of materials' similarity to try to correlate
+    model inferences to chemical intuition.
 
 __Design study__ &mdash; Production line for carbon fibre-reinforced phenolic resin wedges
 
