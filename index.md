@@ -29,7 +29,7 @@ __MEng, Imperial College London__, Materials Science and Engineering
 
 __Master's thesis__ &mdash; Interpretable Machine Learning Models for Materials
 
-Investigated added uncertainty quantification to graph neural networks (GNNs)
+Investigated adding uncertainty quantification to graph neural networks (GNNs)
 for materials property prediction using UnlockGNN (see Experience).
 
 - Evaluated model performance on benchmark datasets using 5-fold
